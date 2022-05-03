@@ -3,5 +3,5 @@ def add(x,y):
 
 
 def mult(x,y):
-  return None
+  return x*y
   
